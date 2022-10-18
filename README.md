@@ -32,7 +32,7 @@ using the Javascript Dom & functions (es6+)
 
 fixed the bug of the quirk mode ! :  
 
-changed from <!DOCTYPE> => (<!DOCTYPE html>)
+changed from <!DOCTYPE> => <(!DOCTYPE html)>
 
 because some js features Did not work as needed.  
 
