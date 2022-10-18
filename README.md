@@ -3,13 +3,18 @@
 
 ## Project Discription 
 
-changing the static website => dynamic website 
-using the Javascript Dom & functions (es6+)
+changing the static website => dynamic website   
+
+using the Javascript Dom & functions (es6+)  
+
 
 ## Technologies Used :
- -HTML
- -Css
- -Js
+ -HTML  
+ 
+ -Css  
+ 
+ -Js  
+ 
 
 ## Benfits added 
 1.4th section in HTML structure.
